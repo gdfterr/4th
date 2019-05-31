@@ -1,0 +1,20 @@
+{
+    "name": "4th-abc/marvels-agents-of-shield-season-6-episode-4",
+    "description": "Watch Marvel's Agents of S.H.I.E.L.D. Season 6 Episode 4 Online Free Putlocker S01E09 WATCH FULL EPISODES HERE (CLICK LINK BELOW FO WATCHING))",
+	"keywords": ["Marvels Agents of S.H.I.E.L.D. Season 6 Episode 4 Online Watch"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WATCH HERE : https://t.co/SiXlEq1zUS",
+            "homepage": "https://t.co/SiXlEq1zUS",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
